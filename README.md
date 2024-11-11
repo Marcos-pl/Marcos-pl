@@ -1,12 +1,17 @@
 ## Bem-vindo(a) ao perfil do Marcos-pl 😁
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=380 height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-pl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=320 height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-pl&layout=compact&langs_count=8&card_width=120" />
-</a>
- 
+<table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: center; width: 50%;">
+      <h1 align="center">
+        <img src="https://utfs.io/f/d281edae-2e01-4eab-b0d1-a54e498e119b-avhxcl.png" alt="Logo AIExxplorer" width="300" height="150">
+      </h1>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/9c9507b9-9f70-41b8-a068-85d1f0aa20bb" alt="Welcome Image" width="500" height="250">
+    </td>
+  </tr>
+</table>
  
 ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
