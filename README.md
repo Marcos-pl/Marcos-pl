@@ -1,10 +1,10 @@
 ## Bem-vindo(a) ao perfil do Marcos-pl 😁
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-pl" />
+  <img width=380 height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-pl" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-pl&layout=compact&langs_count=8&card_width=320" />
+  <img width=320 height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-pl&layout=compact&langs_count=8&card_width=120" />
 </a>
  
  
