@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marcos-pl 😁
+<h2 align="center" style="width:100%">Bem-vindo(a) ao perfil do Marcos-pl 😁</h2>
 
 <table align="center" style="width:100%">
   <tr>
@@ -13,10 +13,11 @@
   </tr>
 </table>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
  
+ <h2 align="center" style="width:100%"> Pra conteúdo sobre programação me segue nas redes abaixo!</h2>
 
-<div> 
+
+<div  align="center" style="width:100%"> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -26,12 +27,19 @@
   
 </div>
 
+### Principais repositorios 🖥
 
-<div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos-pl&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos-pl&repo=site-Mario" />
-</a>
-</div>
+<table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: center; width: 50%;">
+      <h1 align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos-pl&repo=site-Mario" />
+      </h1>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos-pl&repo=site-Mario" />
+    </td>
+  </tr>
+</table>
+
+
