@@ -4,7 +4,7 @@
   <tr>
     <td style="text-align: center; width: 50%;">
       <h1 align="center">
-        <img src="" alt="Logo AIExxplorer" width="300" height="150">
+        <img src="https://github.com/user-attachments/assets/e68a0f4d-eb31-49e3-9682-a1a7dc1557d7" alt="GIF-computador" width="200" height="150">
       </h1>
     </td>
     <td style="text-align: center; width: 50%;">
