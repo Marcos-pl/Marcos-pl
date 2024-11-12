@@ -18,38 +18,45 @@
 
 
 <div  align="center" style="width:100%"> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/marcos_pl44/profilecard/?igsh=MWpicndyMW1tZzV2dg== )" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="" target="_blank"></a>
+  <a href="/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/marcos_pl44/profilecard/?igsh=MWpicndyMW1tZzV2dg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
-### Principais repositorios 🖥
+<h2 align="center">
+    Principais repositorios 🖥
+</h2>
 
 <table align="center" style="width:100%">
   <tr>
     <td style="text-align: center; width: 50%;">
       <h1 align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos-pl&repo=site-Mario" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green" />
       </h1>
     </td>
     <td style="text-align: center; width: 50%;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos-pl&repo=site-Mario" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green" />
     </td>
   </tr>
 </table>
 
-<div align="center" style="width:100%">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-pl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-pl&layout=compact&langs_count=8&card_width=320" />
-</a>
 
-</div>
+<table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: center; width: 50%;">
+      <h1 align="center">
+        <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+      </h1>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-pl&show_icons=true&theme=transparent" />
+    </td>
+  </tr>
+</table>
+
 
 
